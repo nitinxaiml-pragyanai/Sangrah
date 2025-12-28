@@ -24,7 +24,7 @@ st.markdown("""
 
     /* BACKGROUND: DEEP DATA OCEAN */
     .stApp {
-        background: linear-gradient(180deg, #4169E1 0%, #00334e 100%);
+        background: linear-gradient(180deg, #002366 0%, #4169E1 100%);
         background-attachment: fixed;
     }
 
