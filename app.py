@@ -10,7 +10,7 @@ from concurrent.futures import ThreadPoolExecutor
 # ==========================================
 st.set_page_config(
     page_title="SANGRAH",
-    page_icon="🔴",
+    page_icon="🌏",
     layout="wide"
 )
 
