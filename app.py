@@ -9,8 +9,8 @@ from concurrent.futures import ThreadPoolExecutor
 # 1. CONFIGURATION & INDUSTRIAL THEME
 # ==========================================
 st.set_page_config(
-    page_title="SAMRION SANGRAH",
-    page_icon="📦",
+    page_title="SANGRAH",
+    page_icon="✅️",
     layout="wide"
 )
 
@@ -155,7 +155,7 @@ def mine_data(query, count):
 # 3. INTERFACE
 # ==========================================
 
-st.title("📦 SAMRION SANGRAH")
+st.title("SANGRAH")
 st.markdown("### Massive Scale Dataset Collector")
 st.markdown("---")
 
